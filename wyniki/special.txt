@@ -1,0 +1,54 @@
+Filename: special\calgary.tar
+Compression method: lz77
+Output size before Huffman compression: 12857448bits
+Output size after Huffman compression: 10399474bits
+Huffman code tree size: 265853bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 6522.911663208228
+Weighted average symbol value in tree for channel 1: 6.366580205701912
+Weighted average symbol value in tree for channel 2: 73.13495548774024
+Compression ratio: 0.40818934688038877
+Total compression time: 11108ms
+Total decompression time: 12176ms
+
+Filename: special\calgary.tar
+Compression method: lzss
+Output size before Huffman compression: 11518031bits
+Output size after Huffman compression: 9581572bits
+Huffman code tree size: 265774bits
+Byte padding: 6bits
+Weighted average symbol value in tree for channel 0: 0.42184181372111357
+Weighted average symbol value in tree for channel 1: 7993.438055207775
+Weighted average symbol value in tree for channel 2: 8.365468312168366
+Weighted average symbol value in tree for channel 3: 57.97098536653269
+Compression ratio: 0.37688331586063645
+Total compression time: 14316ms
+Total decompression time: 13731ms
+
+Filename: special\cantenbury.tar
+Compression method: lz77
+Output size before Huffman compression: 8884448bits
+Output size after Huffman compression: 7010074bits
+Huffman code tree size: 265725bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 7163.0338066327195
+Weighted average symbol value in tree for channel 1: 8.21018083300692
+Weighted average symbol value in tree for channel 2: 59.20887123361002
+Compression ratio: 0.32232232977227365
+Total compression time: 9869ms
+Total decompression time: 7960ms
+
+Filename: special\cantenbury.tar
+Compression method: lzss
+Output size before Huffman compression: 8309265bits
+Output size after Huffman compression: 6309131bits
+Huffman code tree size: 265758bits
+Byte padding: 7bits
+Weighted average symbol value in tree for channel 0: 0.5369385274591709
+Weighted average symbol value in tree for channel 1: 6149.764639514601
+Weighted average symbol value in tree for channel 2: 9.243971016465313
+Weighted average symbol value in tree for channel 3: 52.89505772904727
+Compression ratio: 0.2912718596897115
+Total compression time: 8895ms
+Total decompression time: 9209ms
+
