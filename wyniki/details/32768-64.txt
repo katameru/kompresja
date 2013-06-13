@@ -1,0 +1,783 @@
+Filename: cantenbury\alice29.txt 
+Compression method: lz77
+Output size before Huffman compression: 622000bits
+Output size after Huffman compression: 476224bits
+Huffman code tree size: 220759bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 10163.87849682954
+Weighted average symbol value in tree for channel 1: 6.091010816859381
+Weighted average symbol value in tree for channel 2: 88.87980791645298
+Compression ratio: 0.5728422173858727
+Total compression time: 375ms
+Total decompression time: 648ms
+
+Filename: calgary\alice29.txt 
+Compression method: lzss
+Output size before Huffman compression: 533783bits
+Output size after Huffman compression: 423209bits
+Huffman code tree size: 228602bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 0.6633320126782885
+Weighted average symbol value in tree for channel 1: 11838.71260763526
+Weighted average symbol value in tree for channel 2: 7.062416007167388
+Weighted average symbol value in tree for channel 3: 90.55295155912924
+Compression ratio: 0.5357192170373926
+Total compression time: 388ms
+Total decompression time: 698ms
+
+Filename: cantenbury\asyoulik.txt
+Compression method: lz77
+Output size before Huffman compression: 559940bits
+Output size after Huffman compression: 421279bits
+Huffman code tree size: 202501bits
+Byte padding: 4bits
+Weighted average symbol value in tree for channel 0: 9898.290397762585
+Weighted average symbol value in tree for channel 1: 5.483219390926041
+Weighted average symbol value in tree for channel 2: 90.6257703661505
+Compression ratio: 0.6228920186293229
+Total compression time: 210ms
+Total decompression time: 593ms
+
+Filename: calgary\asyoulik.txt
+Compression method: lzss
+Output size before Huffman compression: 491701bits
+Output size after Huffman compression: 378866bits
+Huffman code tree size: 211730bits
+Byte padding: 4bits
+Weighted average symbol value in tree for channel 0: 0.6406921829844223
+Weighted average symbol value in tree for channel 1: 11782.11425270917
+Weighted average symbol value in tree for channel 2: 6.325045382034215
+Weighted average symbol value in tree for channel 3: 92.67487249901923
+Compression ratio: 0.5897554701667213
+Total compression time: 279ms
+Total decompression time: 578ms
+
+Filename: cantenbury\cp.html
+Compression method: lz77
+Output size before Huffman compression: 96230bits
+Output size after Huffman compression: 65781bits
+Huffman code tree size: 31531bits
+Byte padding: 8bits
+Weighted average symbol value in tree for channel 0: 4007.282097649186
+Weighted average symbol value in tree for channel 1: 6.414707655213984
+Weighted average symbol value in tree for channel 2: 85.40976197649894
+Compression ratio: 0.49445189611023044
+Total compression time: 72ms
+Total decompression time: 87ms
+
+Filename: calgary\cp.html
+Compression method: lzss
+Output size before Huffman compression: 83629bits
+Output size after Huffman compression: 59436bits
+Huffman code tree size: 23624bits
+Byte padding: 4bits
+Weighted average symbol value in tree for channel 0: 0.2719232498875731
+Weighted average symbol value in tree for channel 1: 6190.988423373759
+Weighted average symbol value in tree for channel 2: 10.88478500551268
+Weighted average symbol value in tree for channel 3: 91.15953067105805
+Compression ratio: 0.4220217046701622
+Total compression time: 64ms
+Total decompression time: 100ms
+
+Filename: cantenbury\fields.c
+Compression method: lz77
+Output size before Huffman compression: 40492bits
+Output size after Huffman compression: 26692bits
+Huffman code tree size: 14779bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 2361.771489971347
+Weighted average symbol value in tree for channel 1: 6.986389684813753
+Weighted average symbol value in tree for channel 2: 76.32211882605583
+Compression ratio: 0.464932735426009
+Total compression time: 14ms
+Total decompression time: 74ms
+
+Filename: calgary\fields.c
+Compression method: lzss
+Output size before Huffman compression: 33511bits
+Output size after Huffman compression: 22832bits
+Huffman code tree size: 12601bits
+Byte padding: 7bits
+Weighted average symbol value in tree for channel 0: 0.4123446206600943
+Weighted average symbol value in tree for channel 1: 3440.195426195426
+Weighted average symbol value in tree for channel 2: 10.164241164241163
+Weighted average symbol value in tree for channel 3: 81.59693877551021
+Compression ratio: 0.39730941704035877
+Total compression time: 19ms
+Total decompression time: 41ms
+
+Filename: cantenbury\grammar.lsp
+Compression method: lz77
+Output size before Huffman compression: 17524bits
+Output size after Huffman compression: 10239bits
+Huffman code tree size: 6411bits
+Byte padding: 6bits
+Weighted average symbol value in tree for channel 0: 930.2185430463576
+Weighted average symbol value in tree for channel 1: 5.158940397350993
+Weighted average symbol value in tree for channel 2: 79.93719008264463
+Compression ratio: 0.5595270088685838
+Total compression time: 9ms
+Total decompression time: 42ms
+
+Filename: calgary\grammar.lsp
+Compression method: lzss
+Output size before Huffman compression: 13936bits
+Output size after Huffman compression: 8803bits
+Huffman code tree size: 4930bits
+Byte padding: 3bits
+Weighted average symbol value in tree for channel 0: 0.2755194218608853
+Weighted average symbol value in tree for channel 1: 1366.8
+Weighted average symbol value in tree for channel 2: 9.567213114754098
+Weighted average symbol value in tree for channel 3: 85.23910336239103
+Compression ratio: 0.4614350980919108
+Total compression time: 11ms
+Total decompression time: 20ms
+
+Filename: cantenbury\kennedy.xls
+Compression method: lz77
+Output size before Huffman compression: 2417448bits
+Output size after Huffman compression: 1377932bits
+Huffman code tree size: 42279bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 14645.087248080614
+Weighted average symbol value in tree for channel 1: 11.352963051823416
+Weighted average symbol value in tree for channel 2: 3.071400295102026
+Compression ratio: 0.17239915940272535
+Total compression time: 6136ms
+Total decompression time: 1900ms
+
+Filename: calgary\kennedy.xls
+Compression method: lzss
+Output size before Huffman compression: 2570634bits
+Output size after Huffman compression: 1309762bits
+Huffman code tree size: 36641bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 0.5221874865646707
+Weighted average symbol value in tree for channel 1: 3896.5652956328436
+Weighted average symbol value in tree for channel 2: 11.196610249232542
+Weighted average symbol value in tree for channel 3: 11.427008753550908
+Compression ratio: 0.16343965102005936
+Total compression time: 3368ms
+Total decompression time: 2481ms
+
+Filename: cantenbury\lcet10.txt
+Compression method: lz77
+Output size before Huffman compression: 1660954bits
+Output size after Huffman compression: 1320572bits
+Huffman code tree size: 411551bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 12065.36273003457
+Weighted average symbol value in tree for channel 1: 6.451077277647799
+Weighted average symbol value in tree for channel 2: 90.51025752946312
+Compression ratio: 0.5073555256658403
+Total compression time: 983ms
+Total decompression time: 1686ms
+
+Filename: calgary\lcet10.txt
+Compression method: lzss
+Output size before Huffman compression: 1412207bits
+Output size after Huffman compression: 1176438bits
+Huffman code tree size: 422897bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 0.6726224132081873
+Weighted average symbol value in tree for channel 1: 13719.57188223866
+Weighted average symbol value in tree for channel 2: 7.485205110961668
+Weighted average symbol value in tree for channel 3: 87.67021031624193
+Compression ratio: 0.4684595809295285
+Total compression time: 1422ms
+Total decompression time: 1768ms
+
+Filename: cantenbury\plrabn12.txt
+Compression method: lz77
+Output size before Huffman compression: 2196468bits
+Output size after Huffman compression: 1704312bits
+Huffman code tree size: 450222bits
+Byte padding: 2bits
+Weighted average symbol value in tree for channel 0: 10560.944032215473
+Weighted average symbol value in tree for channel 1: 5.362027990493795
+Weighted average symbol value in tree for channel 2: 94.15090901889333
+Compression ratio: 0.5589101421364252
+Total compression time: 1163ms
+Total decompression time: 2079ms
+
+Filename: calgary\plrabn12.txt
+Compression method: lzss
+Output size before Huffman compression: 1947664bits
+Output size after Huffman compression: 1571399bits
+Huffman code tree size: 470832bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 0.7066342966525048
+Weighted average symbol value in tree for channel 1: 12141.193215904435
+Weighted average symbol value in tree for channel 2: 5.952165122824637
+Weighted average symbol value in tree for channel 3: 97.26900919825583
+Compression ratio: 0.5297772594171348
+Total compression time: 1365ms
+Total decompression time: 2340ms
+
+Filename: cantenbury\ptt5
+Compression method: lz77
+Output size before Huffman compression: 702823bits
+Output size after Huffman compression: 490496bits
+Huffman code tree size: 184271bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 14022.794223230865
+Weighted average symbol value in tree for channel 1: 20.17660408500103
+Weighted average symbol value in tree for channel 2: 2.9625350717940253
+Compression ratio: 0.16434795485721412
+Total compression time: 11145ms
+Total decompression time: 676ms
+
+Filename: calgary\ptt5
+Compression method: lzss
+Output size before Huffman compression: 633188bits
+Output size after Huffman compression: 444354bits
+Huffman code tree size: 115921bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 0.35380914538542496
+Weighted average symbol value in tree for channel 1: 16074.136951374978
+Weighted average symbol value in tree for channel 2: 29.32853760699326
+Weighted average symbol value in tree for channel 3: -0.022235517000697976
+Compression ratio: 0.13646300972689862
+Total compression time: 10808ms
+Total decompression time: 740ms
+
+Filename: cantenbury\sum
+Compression method: lz77
+Output size before Huffman compression: 148778bits
+Output size after Huffman compression: 109625bits
+Huffman code tree size: 45774bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 9110.313255360625
+Weighted average symbol value in tree for channel 1: 6.453996101364522
+Weighted average symbol value in tree for channel 2: 28.8347300721107
+Compression ratio: 0.5079759414225942
+Total compression time: 161ms
+Total decompression time: 135ms
+
+Filename: calgary\sum
+Compression method: lzss
+Output size before Huffman compression: 139498bits
+Output size after Huffman compression: 106738bits
+Huffman code tree size: 39910bits
+Byte padding: 8bits
+Weighted average symbol value in tree for channel 0: 0.31303288672350793
+Weighted average symbol value in tree for channel 1: 12095.772822508232
+Weighted average symbol value in tree for channel 2: 9.250823106854236
+Weighted average symbol value in tree for channel 3: 28.660439110868676
+Compression ratio: 0.47939330543933056
+Total compression time: 221ms
+Total decompression time: 165ms
+
+Filename: cantenbury\xargs.1
+Compression method: lz77
+Output size before Huffman compression: 24426bits
+Output size after Huffman compression: 14271bits
+Huffman code tree size: 8153bits
+Byte padding: 8bits
+Weighted average symbol value in tree for channel 0: 689.1128266033254
+Weighted average symbol value in tree for channel 1: 4.019002375296912
+Weighted average symbol value in tree for channel 2: 87.85290628706998
+Compression ratio: 0.6633546250295718
+Total compression time: 10ms
+Total decompression time: 39ms
+
+Filename: calgary\xargs.1
+Compression method: lzss
+Output size before Huffman compression: 19739bits
+Output size after Huffman compression: 12520bits
+Huffman code tree size: 5763bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 0.2545227698066126
+Weighted average symbol value in tree for channel 1: 1174.953431372549
+Weighted average symbol value in tree for channel 2: 7.428921568627451
+Weighted average symbol value in tree for channel 3: 87.1086956521739
+Compression ratio: 0.5408090844570618
+Total compression time: 12ms
+Total decompression time: 28ms
+
+Filename: cantenbury\bib
+Compression method: lz77
+Output size before Huffman compression: 380372bits
+Output size after Huffman compression: 297065bits
+Huffman code tree size: 144443bits
+Byte padding: 4bits
+Weighted average symbol value in tree for channel 0: 8764.348048185422
+Weighted average symbol value in tree for channel 1: 7.482769136931991
+Weighted average symbol value in tree for channel 2: 82.48532438819852
+Compression ratio: 0.49603185303026215
+Total compression time: 171ms
+Total decompression time: 380ms
+
+Filename: calgary\bib
+Compression method: lzss
+Output size before Huffman compression: 342426bits
+Output size after Huffman compression: 269306bits
+Huffman code tree size: 140310bits
+Byte padding: 8bits
+Weighted average symbol value in tree for channel 0: 0.4949740815866577
+Weighted average symbol value in tree for channel 1: 11005.741098260632
+Weighted average symbol value in tree for channel 2: 9.111738457335397
+Weighted average symbol value in tree for channel 3: 87.86604194556001
+Compression ratio: 0.46020618186066997
+Total compression time: 253ms
+Total decompression time: 422ms
+
+Filename: cantenbury\book1
+Compression method: lz77
+Output size before Huffman compression: 3561846bits
+Output size after Huffman compression: 2787768bits
+Huffman code tree size: 514700bits
+Byte padding: 4bits
+Weighted average symbol value in tree for channel 0: 10940.723013792318
+Weighted average symbol value in tree for channel 1: 5.259220660793669
+Weighted average symbol value in tree for channel 2: 91.29273018897112
+Compression ratio: 0.5369726485520395
+Total compression time: 1946ms
+Total decompression time: 3424ms
+
+Filename: calgary\book1
+Compression method: lzss
+Output size before Huffman compression: 3124679bits
+Output size after Huffman compression: 2542689bits
+Huffman code tree size: 525230bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 0.6604345941930292
+Weighted average symbol value in tree for channel 1: 12765.450651054982
+Weighted average symbol value in tree for channel 2: 6.037043664996421
+Weighted average symbol value in tree for channel 3: 89.49588968443383
+Compression ratio: 0.4988351537714092
+Total compression time: 2437ms
+Total decompression time: 3670ms
+
+Filename: cantenbury\book2
+Compression method: lz77
+Output size before Huffman compression: 2352140bits
+Output size after Huffman compression: 1895432bits
+Huffman code tree size: 461676bits
+Byte padding: 4bits
+Weighted average symbol value in tree for channel 0: 13019.732887014845
+Weighted average symbol value in tree for channel 1: 6.531377915865266
+Weighted average symbol value in tree for channel 2: 88.26364521816322
+Compression ratio: 0.4823378996031798
+Total compression time: 1274ms
+Total decompression time: 2304ms
+
+Filename: calgary\book2
+Compression method: lzss
+Output size before Huffman compression: 2025851bits
+Output size after Huffman compression: 1695705bits
+Huffman code tree size: 466766bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 0.6341203908617343
+Weighted average symbol value in tree for channel 1: 14692.358877300367
+Weighted average symbol value in tree for channel 2: 7.622518423066081
+Weighted average symbol value in tree for channel 3: 82.07902572930722
+Compression ratio: 0.44250854538549184
+Total compression time: 2070ms
+Total decompression time: 2437ms
+
+Filename: cantenbury\geo
+Compression method: lz77
+Output size before Huffman compression: 700677bits
+Output size after Huffman compression: 510761bits
+Huffman code tree size: 120269bits
+Byte padding: 2bits
+Weighted average symbol value in tree for channel 0: 5612.709242167129
+Weighted average symbol value in tree for channel 1: 3.2381937833698937
+Weighted average symbol value in tree for channel 2: 6.545029384984686
+Compression ratio: 0.770302734375
+Total compression time: 241ms
+Total decompression time: 640ms
+
+Filename: calgary\geo
+Compression method: lzss
+Output size before Huffman compression: 764604bits
+Output size after Huffman compression: 579413bits
+Huffman code tree size: 84848bits
+Byte padding: 3bits
+Weighted average symbol value in tree for channel 0: 0.08448788218979066
+Weighted average symbol value in tree for channel 1: 14853.169454431765
+Weighted average symbol value in tree for channel 2: 5.17133031108332
+Weighted average symbol value in tree for channel 3: 5.410075159768606
+Compression ratio: 0.810869140625
+Total compression time: 1453ms
+Total decompression time: 959ms
+
+Filename: cantenbury\news
+Compression method: lz77
+Output size before Huffman compression: 1640277bits
+Output size after Huffman compression: 1313927bits
+Huffman code tree size: 375897bits
+Byte padding: 8bits
+Weighted average symbol value in tree for channel 0: 12055.209985679177
+Weighted average symbol value in tree for channel 1: 5.667279574264953
+Weighted average symbol value in tree for channel 2: 82.93179166224674
+Compression ratio: 0.5601271780837901
+Total compression time: 961ms
+Total decompression time: 1680ms
+
+Filename: calgary\news
+Compression method: lzss
+Output size before Huffman compression: 1447554bits
+Output size after Huffman compression: 1172910bits
+Huffman code tree size: 358530bits
+Byte padding: 8bits
+Weighted average symbol value in tree for channel 0: 0.42616644066094117
+Weighted average symbol value in tree for channel 1: 15499.662620501096
+Weighted average symbol value in tree for channel 2: 7.541895491078794
+Weighted average symbol value in tree for channel 3: 79.4329149818831
+Compression ratio: 0.5076277680988786
+Total compression time: 1662ms
+Total decompression time: 1821ms
+
+Filename: cantenbury\obj1
+Compression method: lz77
+Output size before Huffman compression: 126767bits
+Output size after Huffman compression: 89164bits
+Huffman code tree size: 32109bits
+Byte padding: 7bits
+Weighted average symbol value in tree for channel 0: 4994.694349119195
+Weighted average symbol value in tree for channel 1: 3.91946922900938
+Weighted average symbol value in tree for channel 2: 11.664226898444648
+Compression ratio: 0.7049851190476191
+Total compression time: 90ms
+Total decompression time: 107ms
+
+Filename: calgary\obj1
+Compression method: lzss
+Output size before Huffman compression: 105009bits
+Output size after Huffman compression: 86684bits
+Huffman code tree size: 17353bits
+Byte padding: 3bits
+Weighted average symbol value in tree for channel 0: 0.14503421107194692
+Weighted average symbol value in tree for channel 1: 7800.133666904932
+Weighted average symbol value in tree for channel 2: 9.475339528234453
+Weighted average symbol value in tree for channel 3: 12.617240543161978
+Compression ratio: 0.6047712053571429
+Total compression time: 249ms
+Total decompression time: 134ms
+
+Filename: cantenbury\obj2
+Compression method: lz77
+Output size before Huffman compression: 892715bits
+Output size after Huffman compression: 741197bits
+Huffman code tree size: 211965bits
+Byte padding: 6bits
+Weighted average symbol value in tree for channel 0: 16740.379722574147
+Weighted average symbol value in tree for channel 1: 7.017834519052724
+Weighted average symbol value in tree for channel 2: 19.727715696465697
+Compression ratio: 0.482735987423728
+Total compression time: 756ms
+Total decompression time: 875ms
+
+Filename: calgary\obj2
+Compression method: lzss
+Output size before Huffman compression: 822745bits
+Output size after Huffman compression: 687843bits
+Huffman code tree size: 160904bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 0.3462813443612971
+Weighted average symbol value in tree for channel 1: 21897.26501113691
+Weighted average symbol value in tree for channel 2: 9.808919008577792
+Weighted average symbol value in tree for channel 3: 17.65204839843358
+Compression ratio: 0.4298540601424555
+Total compression time: 1881ms
+Total decompression time: 1048ms
+
+Filename: cantenbury\paper1
+Compression method: lz77
+Output size before Huffman compression: 218639bits
+Output size after Huffman compression: 160151bits
+Huffman code tree size: 85911bits
+Byte padding: 2bits
+Weighted average symbol value in tree for channel 0: 8983.254808330017
+Weighted average symbol value in tree for channel 1: 6.05133306804616
+Weighted average symbol value in tree for channel 2: 85.67559681697612
+Compression ratio: 0.5785820432271778
+Total compression time: 152ms
+Total decompression time: 216ms
+
+Filename: calgary\paper1
+Compression method: lzss
+Output size before Huffman compression: 186814bits
+Output size after Huffman compression: 139762bits
+Huffman code tree size: 78973bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 0.5130011742996141
+Weighted average symbol value in tree for channel 1: 11178.847285807717
+Weighted average symbol value in tree for channel 2: 7.742642249836495
+Weighted average symbol value in tree for channel 3: 82.21491303599105
+Compression ratio: 0.5143244107522432
+Total compression time: 139ms
+Total decompression time: 285ms
+
+Filename: cantenbury\paper2
+Compression method: lz77
+Output size before Huffman compression: 344151bits
+Output size after Huffman compression: 254827bits
+Huffman code tree size: 133919bits
+Byte padding: 6bits
+Weighted average symbol value in tree for channel 0: 9322.876211342378
+Weighted average symbol value in tree for channel 1: 5.926603185303784
+Weighted average symbol value in tree for channel 2: 92.77148634984833
+Compression ratio: 0.5911750751225684
+Total compression time: 125ms
+Total decompression time: 438ms
+
+Filename: calgary\paper2
+Compression method: lzss
+Output size before Huffman compression: 296994bits
+Output size after Huffman compression: 226442bits
+Huffman code tree size: 134657bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 0.6034257841302252
+Weighted average symbol value in tree for channel 1: 11025.381896794812
+Weighted average symbol value in tree for channel 2: 7.068897452768117
+Weighted average symbol value in tree for channel 3: 90.3982553982554
+Compression ratio: 0.5491307680142095
+Total compression time: 188ms
+Total decompression time: 369ms
+
+Filename: cantenbury\paper3
+Compression method: lz77
+Output size before Huffman compression: 213564bits
+Output size after Huffman compression: 151377bits
+Huffman code tree size: 81025bits
+Byte padding: 6bits
+Weighted average symbol value in tree for channel 0: 7550.892449755567
+Weighted average symbol value in tree for channel 1: 5.317897881586094
+Weighted average symbol value in tree for channel 2: 91.88879837067209
+Compression ratio: 0.6244035593001762
+Total compression time: 72ms
+Total decompression time: 198ms
+
+Filename: calgary\paper3
+Compression method: lzss
+Output size before Huffman compression: 184537bits
+Output size after Huffman compression: 133657bits
+Huffman code tree size: 77802bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 0.5227700736175313
+Weighted average symbol value in tree for channel 1: 9610.773702308827
+Weighted average symbol value in tree for channel 2: 6.705420009824791
+Weighted average symbol value in tree for channel 3: 90.45408895265423
+Compression ratio: 0.5681339466104973
+Total compression time: 134ms
+Total decompression time: 215ms
+
+Filename: cantenbury\paper4
+Compression method: lz77
+Output size before Huffman compression: 70594bits
+Output size after Huffman compression: 45550bits
+Huffman code tree size: 24803bits
+Byte padding: 7bits
+Weighted average symbol value in tree for channel 0: 2263.087921117502
+Weighted average symbol value in tree for channel 1: 4.458093672966311
+Weighted average symbol value in tree for channel 2: 88.3958932238193
+Compression ratio: 0.6619750112900797
+Total compression time: 21ms
+Total decompression time: 69ms
+
+Filename: calgary\paper4
+Compression method: lzss
+Output size before Huffman compression: 61086bits
+Output size after Huffman compression: 40646bits
+Huffman code tree size: 20381bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 0.3464514702630997
+Weighted average symbol value in tree for channel 1: 3216.606892150606
+Weighted average symbol value in tree for channel 2: 6.591576260370134
+Weighted average symbol value in tree for channel 3: 87.88873858640514
+Compression ratio: 0.5742134577751016
+Total compression time: 33ms
+Total decompression time: 71ms
+
+Filename: cantenbury\paper5
+Compression method: lz77
+Output size before Huffman compression: 64620bits
+Output size after Huffman compression: 41780bits
+Huffman code tree size: 21964bits
+Byte padding: 8bits
+Weighted average symbol value in tree for channel 0: 2508.487432675045
+Weighted average symbol value in tree for channel 1: 4.364901256732495
+Weighted average symbol value in tree for channel 2: 85.19919246298788
+Compression ratio: 0.6666387819976577
+Total compression time: 20ms
+Total decompression time: 58ms
+
+Filename: calgary\paper5
+Compression method: lzss
+Output size before Huffman compression: 55062bits
+Output size after Huffman compression: 37178bits
+Huffman code tree size: 17746bits
+Byte padding: 4bits
+Weighted average symbol value in tree for channel 0: 0.32643733461630986
+Weighted average symbol value in tree for channel 1: 3632.5136330140017
+Weighted average symbol value in tree for channel 2: 6.745025792188652
+Weighted average symbol value in tree for channel 3: 84.2856122813281
+Compression ratio: 0.5743684122469467
+Total compression time: 55ms
+Total decompression time: 64ms
+
+Filename: cantenbury\paper6
+Compression method: lz77
+Output size before Huffman compression: 160262bits
+Output size after Huffman compression: 114569bits
+Huffman code tree size: 58617bits
+Byte padding: 6bits
+Weighted average symbol value in tree for channel 0: 7986.710278682592
+Weighted average symbol value in tree for channel 1: 5.895403546869345
+Weighted average symbol value in tree for channel 2: 82.8349918581509
+Compression ratio: 0.5681406639548615
+Total compression time: 56ms
+Total decompression time: 147ms
+
+Filename: calgary\paper6
+Compression method: lzss
+Output size before Huffman compression: 137836bits
+Output size after Huffman compression: 100156bits
+Huffman code tree size: 51816bits
+Byte padding: 4bits
+Weighted average symbol value in tree for channel 0: 0.4653854553395938
+Weighted average symbol value in tree for channel 1: 10003.542702956358
+Weighted average symbol value in tree for channel 2: 7.7916471140309715
+Weighted average symbol value in tree for channel 3: 79.630385950582
+Compression ratio: 0.4985434982285789
+Total compression time: 101ms
+Total decompression time: 220ms
+
+Filename: cantenbury\pic
+Compression method: lz77
+Output size before Huffman compression: 702823bits
+Output size after Huffman compression: 490496bits
+Huffman code tree size: 184271bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 14022.794223230865
+Weighted average symbol value in tree for channel 1: 20.17660408500103
+Weighted average symbol value in tree for channel 2: 2.9625350717940253
+Compression ratio: 0.16434795485721412
+Total compression time: 11211ms
+Total decompression time: 703ms
+
+Filename: calgary\pic
+Compression method: lzss
+Output size before Huffman compression: 633188bits
+Output size after Huffman compression: 444354bits
+Huffman code tree size: 115921bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 0.35380914538542496
+Weighted average symbol value in tree for channel 1: 16074.136951374978
+Weighted average symbol value in tree for channel 2: 29.32853760699326
+Weighted average symbol value in tree for channel 3: -0.022235517000697976
+Compression ratio: 0.13646300972689862
+Total compression time: 12324ms
+Total decompression time: 969ms
+
+Filename: cantenbury\progc
+Compression method: lz77
+Output size before Huffman compression: 160987bits
+Output size after Huffman compression: 116291bits
+Huffman code tree size: 57840bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 8397.408935326968
+Weighted average symbol value in tree for channel 1: 6.13565123401189
+Weighted average symbol value in tree for channel 2: 76.32780979827089
+Compression ratio: 0.549519072984777
+Total compression time: 61ms
+Total decompression time: 154ms
+
+Filename: calgary\progc
+Compression method: lzss
+Output size before Huffman compression: 137161bits
+Output size after Huffman compression: 100954bits
+Huffman code tree size: 51796bits
+Byte padding: 2bits
+Weighted average symbol value in tree for channel 0: 0.4496157592813075
+Weighted average symbol value in tree for channel 1: 11348.712806933077
+Weighted average symbol value in tree for channel 2: 8.311266249398171
+Weighted average symbol value in tree for channel 3: 80.31163979551711
+Compression ratio: 0.48203781777788995
+Total compression time: 113ms
+Total decompression time: 163ms
+
+Filename: cantenbury\progl
+Compression method: lz77
+Output size before Huffman compression: 194018bits
+Output size after Huffman compression: 144595bits
+Huffman code tree size: 79528bits
+Byte padding: 5bits
+Weighted average symbol value in tree for channel 0: 12995.790582959642
+Weighted average symbol value in tree for channel 1: 9.709267563527654
+Weighted average symbol value in tree for channel 2: 76.87057241070094
+Compression ratio: 0.39103369343717725
+Total compression time: 118ms
+Total decompression time: 198ms
+
+Filename: calgary\progl
+Compression method: lzss
+Output size before Huffman compression: 165429bits
+Output size after Huffman compression: 126870bits
+Huffman code tree size: 74656bits
+Byte padding: 2bits
+Weighted average symbol value in tree for channel 0: 0.5544777581814618
+Weighted average symbol value in tree for channel 1: 15599.517405902103
+Weighted average symbol value in tree for channel 2: 11.856865170524827
+Weighted average symbol value in tree for channel 3: 85.44371152154794
+Compression ratio: 0.35160371828155096
+Total compression time: 166ms
+Total decompression time: 210ms
+
+Filename: cantenbury\progp
+Compression method: lz77
+Output size before Huffman compression: 138512bits
+Output size after Huffman compression: 101526bits
+Huffman code tree size: 53497bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 10145.697654941374
+Weighted average symbol value in tree for channel 1: 9.338777219430487
+Weighted average symbol value in tree for channel 2: 75.23089805317144
+Compression ratio: 0.39243403066080723
+Total compression time: 85ms
+Total decompression time: 137ms
+
+Filename: calgary\progp
+Compression method: lzss
+Output size before Huffman compression: 116966bits
+Output size after Huffman compression: 87524bits
+Huffman code tree size: 47171bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 0.4840481171548117
+Weighted average symbol value in tree for channel 1: 13270.478930307941
+Weighted average symbol value in tree for channel 2: 12.272285251215559
+Weighted average symbol value in tree for channel 3: 80.25817076260451
+Compression ratio: 0.34097490836185423
+Total compression time: 165ms
+Total decompression time: 146ms
+
+Filename: cantenbury\trans
+Compression method: lz77
+Output size before Huffman compression: 225570bits
+Output size after Huffman compression: 172335bits
+Huffman code tree size: 85513bits
+Byte padding: 8bits
+Weighted average symbol value in tree for channel 0: 11285.915402417073
+Weighted average symbol value in tree for channel 1: 11.046027256364104
+Weighted average symbol value in tree for channel 2: 68.77130736598535
+Compression ratio: 0.3440098190938684
+Total compression time: 114ms
+Total decompression time: 288ms
+
+Filename: calgary\trans
+Compression method: lzss
+Output size before Huffman compression: 194928bits
+Output size after Huffman compression: 151952bits
+Huffman code tree size: 75303bits
+Byte padding: 1bits
+Weighted average symbol value in tree for channel 0: 0.44118536437859085
+Weighted average symbol value in tree for channel 1: 15336.998800548321
+Weighted average symbol value in tree for channel 2: 14.787868403015764
+Weighted average symbol value in tree for channel 3: 77.86433112403626
+Compression ratio: 0.303185869043172
+Total compression time: 185ms
+Total decompression time: 249ms
+
